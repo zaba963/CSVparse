@@ -35,6 +35,6 @@ See also the list of [contributors](https://github.com/zaba963/CSVparse/graphs/c
 
 ## License
 
-Copyright 2018 Miko³aj ¯abiñski
+Copyright 2018 Mikołaj Żabiński
 
 Full license text can be found under [LICENSE](https://github.com/zaba963/CSVparse/blob/master/LICENSE)
