@@ -8,3 +8,8 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 .vs*
+*_out.csv
+bin/CSVparse_test.exe
+bin/CSVparse_test.ilk
+bin/CSVparse_test.pdb
+lib/CSVparse.lib
